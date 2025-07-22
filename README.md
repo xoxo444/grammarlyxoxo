@@ -2,6 +2,7 @@ Grammarly Xoxo
 
 Grammarly Xoxo is an elegant, AI-powered grammar and spelling corrector built using Hugging Face's `T5-base` model and Gradio. It corrects flawed English sentences and quietly polishes your words — with clarity and just the right touch of precision.
 
+
  ✨ Features
 
 -  Grammar and spelling correction via `vennify/t5-base-grammar-correction`
@@ -9,10 +10,6 @@ Grammarly Xoxo is an elegant, AI-powered grammar and spelling corrector built us
 -  Beautiful pastel pink-beige themed Gradio interface
 -  Handles incomplete or poorly written sentences
 -  Ready for deployment on Hugging Face Spaces or Streamlit
-
- 📸 Preview
-
-![App Screenshot](<img width="1382" height="823" alt="Screenshot (533)" src="https://github.com/user-attachments/assets/f01485d3-3e02-4903-a3f0-c56e5cede7fc" />)
 
 
  🚀 How to Run
@@ -36,11 +33,13 @@ python app.py
    The app will run at `http://localhost:7860/`
 
 
+
 Sample Input:
 > we talked at wrong hours maybe that why we never said the right things.
 
 Output:
 > We talked at wrong hours maybe that's why we never said the right things.
+
 
 
  🛠 Tech Stack
@@ -49,6 +48,7 @@ Output:
 * Gradio
 * Regex (for post-processing)
 * Custom CSS
+
 
 
 For every sentence that was nearly right, and still remembered.
