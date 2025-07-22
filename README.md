@@ -53,9 +53,11 @@ Output:
 
 
 
+*Why this project?*
+bcs i love to 🤪
+(correct)
+((not an expert btw))
 
-For every sentence that was nearly right, and still remembered.
-Because the way we say things matters.
 
 
 
