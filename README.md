@@ -53,10 +53,11 @@ Output:
 
 
 
-*Why this project?*
-bcs i love to 🤪
-(correct)
-((not an expert btw))
+**Why this project?**  
+bcs i love to 🤪  
+*(correct)*  
+*((not an expert btw))*
+
 
 
 
