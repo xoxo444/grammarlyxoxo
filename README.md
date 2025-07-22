@@ -38,6 +38,7 @@ python app.py
 
 Sample Input:
 > we talked at wrong hours maybe that why we never said the right things.
+
 Output:
 > We talked at wrong hours maybe that's why we never said the right things.
 
